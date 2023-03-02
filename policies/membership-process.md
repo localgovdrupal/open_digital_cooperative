@@ -6,7 +6,7 @@ When an organisation (or person) becomes eligible for membership the Membership 
 
 A request to be considered for membership must be submitted, in writing, to Membership Coordinator, with the following information:
   - Their nominated representative,
-  - Confirmation that they have read and accept [the seven principles of cooperation](https://www.ica.coop/en/cooperatives/cooperative-identity),
+  - Confirmation that they have read and accept [the Seven Principles of Cooperation](https://www.ica.coop/en/cooperatives/cooperative-identity),
   - Confirmation that they understand the responsibilities of membership of Open Digital Cooperative.
 
 ## Consideration
