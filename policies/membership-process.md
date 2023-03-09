@@ -5,15 +5,16 @@ When an organisation (or person) becomes eligible for membership the Membership 
 ## Application
 
 A request to be considered for membership must be submitted, in writing, to Membership Coordinator, with the following information:
-  - Their nominated representative,
+  - The name of the person who is to be the nominated representative of the organisation,
   - Confirmation that they have read and accept [the Seven Principles of Cooperation](https://www.ica.coop/en/cooperatives/cooperative-identity),
   - Confirmation that they understand the responsibilities of membership of Open Digital Cooperative.
 
 ## Consideration
 
-The Membership Coordinators will request feedback from exisiting members via a members-only Slack channel, with a timeframe of seven days to register concerns. After this, as per the Articles of Association, the directors will approve or reject the application. 
+The Membership Coordinators will request feedback from exisiting members via a members-only Slack channel, with a timeframe of seven days to raise any concerns about the membership application. After this time, as per the Articles of Association, the directors will approve or reject the application. 
 
 If accepted, the Membership Coordinator will inform the applicant, and will update the Membership Log.
+If rejected, the Membership Coordinator will inform the applicant of the reason.
 
 The Membership Coordinator is responsible for ensuring the representative is added to the apporpriate communication channels.
 
